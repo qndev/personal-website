@@ -1,6 +1,7 @@
 ---
 title: "Use Case Points."
 published: true
+comments: true
 ---
 
 ### Use Case Points (UCP)

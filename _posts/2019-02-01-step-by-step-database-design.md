@@ -1,6 +1,7 @@
 ---
 title: "Thiết kế và tạo lập CSDL"
 published: true
+comments: true
 ---
 
 <img src="{{ '/assets/images/database.jpeg'}}" alt="" height="522px" width="700px">

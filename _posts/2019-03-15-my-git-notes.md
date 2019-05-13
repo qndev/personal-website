@@ -1,6 +1,7 @@
 ---
 title: "My git notes"
 published: true
+comments: true
 ---
 
 ### 1: Hệ thống quản lý phiên bản phân tán (DVCS).

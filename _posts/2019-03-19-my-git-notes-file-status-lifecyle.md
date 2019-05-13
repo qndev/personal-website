@@ -1,6 +1,7 @@
 ---
 title: "My git notes - File Status LifeCyle"
 published: true
+comments: true
 ---
 
 ### Một số câu lệnh cơ bản thông qua trạng thái của file/tập tin trong repository

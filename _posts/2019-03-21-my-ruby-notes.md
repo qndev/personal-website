@@ -1,6 +1,7 @@
 ---
 title: "My Ruby notes"
 published: true
+comments: true
 ---
 
 ### Comments trong Ruby

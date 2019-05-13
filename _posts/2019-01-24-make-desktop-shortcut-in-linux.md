@@ -1,6 +1,7 @@
 ---
 title: "Tạo desktop shortcut application trong linux"
 published: true
+comments: true
 ---
 
 Khi cài đặt các ứng dụng trên các hệ điều hành nhân Linux có rất công cụ để xử lý việc này. Tuy nhiên có những ứng dụng đã có sẵn các gói đã được biên dịch sẵn, chứa các file thực thi đã được build từ trước. Khi muốn chạy hoặc khởi tạo ứng dụng lần đầu chúng ta thường tìm đến file setup có đuôi .sh, cấp quyền thực thi cho nó. Để làm được như vậy cần thực hiện một số câu lệnh:

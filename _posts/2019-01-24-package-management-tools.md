@@ -1,6 +1,7 @@
 ---
 title: "Công cụ quản lý gói trong Debian"
 published: true
+comments: true
 ---
 
 ## Package management tools

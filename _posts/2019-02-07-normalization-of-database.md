@@ -1,6 +1,7 @@
 ---
 title: "Dạng chuẩn NF trong Database"
 published: true
+comments: true
 ---
 
 

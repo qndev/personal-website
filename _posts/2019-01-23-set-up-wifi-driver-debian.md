@@ -1,6 +1,7 @@
 ---
 title: "Cài đặt driver Intel Wireless WiFi"
 published: true
+comments: true
 ---
 
 
