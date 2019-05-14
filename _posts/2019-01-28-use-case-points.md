@@ -95,29 +95,29 @@ comments: true
 
 * #### Step by step Use Case Points Methods
 
-  <img src="{{ '/assets/images/UseCasePointsMethod.png' | absolute_url }}" alt="" height="354px" width="700px">
+  <div style="text-align:center"><img src="{{ '/assets/images/UseCasePointsMethod.png' | absolute_url }}" alt="" height="354px" width="700px"></div>
 
 * #### Review App Demo
 
   * #### Create New Project
 
-  <img src="{{ '/assets/images/project.png' | absolute_url }}" alt="" height="537px" width="700px">
+  <div style="text-align:center"><img src="{{ '/assets/images/project.png' | absolute_url }}" alt="" height="537px" width="700px"></div>
 
   * #### Use Case & Actor
 
-  <img src="{{ '/assets/images/usecase.png' | absolute_url }}" alt="" height="537px" width="700px">
+  <div style="text-align:center"><img src="{{ '/assets/images/usecase.png' | absolute_url }}" alt="" height="537px" width="700px"></div>
 
   * #### Technical Complexity Factor
 
-  <img src="{{ '/assets/images/tcf.png' | absolute_url }}" alt="" height="537px" width="700px">
+  <div style="text-align:center"><img src="{{ '/assets/images/tcf.png' | absolute_url }}" alt="" height="537px" width="700px"></div>
 
   * #### Environmental Complexity Factor
 
-  <img src="{{ '/assets/images/ecf.png' | absolute_url }}" alt="" height="537px" width="700px">
+  <div style="text-align:center"><img src="{{ '/assets/images/ecf.png' | absolute_url }}" alt="" height="537px" width="700px"></div>
 
   * #### Estimate Effort
 
-  <img src="{{ '/assets/images/effort.png' | absolute_url }}" alt="" height="537px" width="700px">
+  <div style="text-align:center"><img src="{{ '/assets/images/effort.png' | absolute_url }}" alt="" height="537px" width="700px"></div>
 
 * #### Source code
   [Use Case Points](https://github.com/qnDev/ktcnpm.20181/tree/master/UseCasePoint)

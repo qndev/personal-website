@@ -34,7 +34,7 @@ $ sudo apt update
 $ apt search <packagename>
 ```
 
-  <img src="{{ '/assets/images/apt_search.png' | absolute_url }}" alt="" height="489px" width="700px">
+  <div style="text-align:center"><img src="{{ '/assets/images/apt_search.png' | absolute_url }}" alt="" height="489px" width="700px"></div>
 
 #### Show
 - Hiển thị thông tin về gói bao gồm các gói phụ thuộc, kích thước cài đặt và tải xuống, nguồn của gói, mô tả nội dung gói, v.v. Sẽ hữu ích để xem thông tin này trước khi cho phép apt xóa gói hoặc trong khi tìm kiếm gói mới để cài đặt.
@@ -43,7 +43,7 @@ $ apt search <packagename>
 $ apt show <packagename>
 ```
 
-  <img src="{{ '/assets/images/apt-show.png' | absolute_url }}" alt="" height="489px" width="700px">
+  <div style="text-align:center"><img src="{{ '/assets/images/apt-show.png' | absolute_url }}" alt="" height="489px" width="700px"></div>
 
 #### Xử lý gói
 - Thêm - cài đặt, xóa gói:
@@ -93,7 +93,7 @@ Tệp /etc/apt/source.list được sử dụng để định vị các gói mon
 
 Synaptic được cài đặt theo mặc định trong Debian. Đây là công cụ với giao diện đồ hoạ, dễ dàng sử dụng đối với người dùng cuối.
 
-  <img src="{{ '/assets/images/synaptic_02.png' | absolute_url }}" alt="" height="495px" width="700px">
+  <div style="text-align:center"><img src="{{ '/assets/images/synaptic_02.png' | absolute_url }}" alt="" height="495px" width="700px"></div>
 
 ### References
 

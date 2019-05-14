@@ -6,7 +6,7 @@ comments: true
 
 ### Một số câu lệnh cơ bản thông qua trạng thái của file/tập tin trong repository
 
-<img src="{{ '/assets/images/gitstatus.png' | absolute_url }}" alt="File Status LifeCyle">
+<div style="text-align:center"><img src="{{ '/assets/images/gitstatus.png' | absolute_url }}" alt="File Status LifeCyle"></div>
 
 * #### Giả sử ta đang làm việc tại thư mục /home/quangnd.
 

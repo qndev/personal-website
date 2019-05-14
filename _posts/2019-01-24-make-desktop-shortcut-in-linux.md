@@ -69,4 +69,4 @@ Ví dụ: Tạo shortcut cho IDE Android Studio.
          Terminal=false
 ```
 
-  <img src="{{ '/assets/images/desktop-shortcut.png' | absolute_url }}" alt="" height="495px" width="700px">
+  <div style="text-align:center"><img src="{{ '/assets/images/desktop-shortcut.png' | absolute_url }}" alt="" height="495px" width="700px"></div>
