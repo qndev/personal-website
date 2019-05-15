@@ -1,0 +1,27 @@
+{% include header.html %}
+
+<style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
+
+<div class="container-md f4 text-left rounded-2 bg-white p-3 p-sm-5">
+  <p class="f5"><a href="/" class="d-flex flex-items-center">{% octicon chevron-left height:16 class:"mr-2 v-align-middle" fill:#0366d6 aria-label:Home %}Home</a></p>
+  <div class="container">
+    <h1>404</h1>
+
+    <p><strong>Page not found :(</strong></p>
+    <p>The requested page could not be found.</p>
+  </div>
+</div>
+
+{% include footer.html %}
