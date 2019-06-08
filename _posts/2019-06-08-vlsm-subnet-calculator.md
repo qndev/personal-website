@@ -11,11 +11,11 @@ comments: true
 Địa chỉ ipv4  có độ dài là 32 bits được chia làm 2 phần là host và phần network.
 Tùy vào giải địa chỉ ip cũng như việc chia mạng con của từng lớp khác nhau mà ta sẽ có số bits của phần host cũng như phần network khác nhau.
 
-<img src="{{ '/assets/images/708px-CPT-Network-IPAddressDivision.svg' | absolute_url }}" alt="IP Address Structure">
+![IP Address Structure After](/assets/images/708px-CPT-Network-IPAddressDivision.svg)
 
 * Ip Address trước và sau khi chia mạng con.
 
-<img src="{{ '/assets/images/sub.png' | absolute_url }}" alt="IP Address Structure">
+![IP Address Structure After Division](/assets/images/1920px-Subnetting_Concept-en.svg)
 
 * Private IP Addresses
 
@@ -56,6 +56,6 @@ Tiếp tục P03 cần 5 hosts bit (2^5-2=30 hosts treen mạng con). Bởi vì 
 
 Cứ tiếp tục như vậy ta có bảng tổng kết quy hoạch giải địa chỉ ip cho tất cả các phòng ban trong bảng dưới đây.
 
-<img src="{{ '/assets/images/subnettable.png' | absolute_url }}" alt="Subnet Table">
+![Subnet Table](/assets/images/subnettable.png)
 
 Như vậy với kỹ thuật chia mạng con này ta có thể tiết kiệm được tối đa việc cấp phát và sử dụng địa chỉ ip một cách tối ưu nhất.
