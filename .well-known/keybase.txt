@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/qnd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://qndev.github.io
+  * I am qnd (https://keybase.io/qnd) on keybase.
+  * I have a public key ASCEcVQLMguM3rv00fw6Pntv48OUlmQdqJnIrh5UMxJEigo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208471540b320b8cdebbf4d1fc3a3e7b6fe3c39496641da899c8ae1e543312448a0a",
+      "host": "keybase.io",
+      "kid": "01208471540b320b8cdebbf4d1fc3a3e7b6fe3c39496641da899c8ae1e543312448a0a",
+      "uid": "a01e43576dfbd577cfb966f090acdb19",
+      "username": "qnd"
+    },
+    "merkle_root": {
+      "ctime": 1561389665,
+      "hash": "3d2d7cbf731084e549f0d170906cc75ccd3d57e384fe4bb564a0a9dab6b570951e8e9994942d873dccac8aab394b0d06b9765de6db193393d7618ea49717931e",
+      "hash_meta": "7089fcf154e83dcb888ad580e0cba1382957eacb199b0fa780c59a8bd55cc6bb",
+      "seqno": 5629008
+    },
+    "service": {
+      "entropy": "ZVoeX0M/bufZQ8xM1ufml3f8",
+      "hostname": "qndev.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.1.0"
+  },
+  "ctime": 1561389679,
+  "expire_in": 504576000,
+  "prev": "bfa6108ad088603bfed65c02776de97633d3c6635d934e8d34e9ceb9f083b292",
+  "seqno": 37,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghHFUCzILjN679NH8Oj57b+PDlJZkHaiZyK4eVDMSRIoKp3BheWxvYWTESpcCJcQgv6YQitCIYDv+1lwCd23pdjPTxmNdk06NNOnOufCDspLEIPmaUcAkh9gD6uftsTCl1/poK4bfR531a87kEVsutd3/AgHCo3NpZ8RAN/gOOb4sQMHW1i7n900i6V68Fc7+IKo+cTlKP83kXwAinOeZrr+On/oBoRqQZBWGeHQCviZYYIIppEyP94tGDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM5j2RvrJtgncF8uTWbhB+HXs8WvYXQy86SWhKLbLXsFo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/qnd
+
+==================================================================
