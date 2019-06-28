@@ -82,3 +82,8 @@ keybase_file:
   name: Serves public files
   profile_url_prefix: https://keybase.pub/
   icon_svg: '<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20"><title></title><path d="M8.75 2.5l2.5 2.5h8.75v13.75h-20v-16.25z"></path></svg>'
+
+hacker_news:
+  name: Hacker News
+  profile_url_prefix: https://news.ycombinator.com/user?id=
+  icon_svg: '<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20"><title></title><path d="M0 0v20h20v-20h-20zM10.625 11.406v4.219h-1.25v-4.219l-3.418-6.406h1.418l2.625 4.922 2.625-4.922h1.418l-3.418 6.406z"></path></svg>'
