@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/amaryllis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://qndev.github.io
+  * I am amaryllis (https://keybase.io/amaryllis) on keybase.
+  * I have a public key with fingerprint F797 1DD9 CCEB E5DB 0A21  A9E4 3F7F FB7C BC19 4855
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d58516e8506dc866c6517f01b5052634592aa906da6d7b3712a2dddcb275017a0a",
+      "fingerprint": "f7971dd9ccebe5db0a21a9e43f7ffb7cbc194855",
+      "host": "keybase.io",
+      "key_id": "3f7ffb7cbc194855",
+      "kid": "0101d58516e8506dc866c6517f01b5052634592aa906da6d7b3712a2dddcb275017a0a",
+      "uid": "39116939b48f99b16fddc2cf6feb2619",
+      "username": "amaryllis"
+    },
+    "service": {
+      "hostname": "qndev.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1562094038,
+  "expire_in": 157680000,
+  "prev": "7cca4470bf3a2ec72439cfb81633486ffddcffa6b817781e050626d73a765098",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMIrAnicrVJbSBVBGD6nMkoqpMiggmqzElLZ2cvMzslD0UMEGipREaXHmd0Z3dJz
+jrt7Th1EsiIUIgIjEiOyy4sFImFXKK18MIUMDC1KyC4YFGVFQXad7fLWY/MyzP9/
+//d/38f0zJwcSA927V9dVlQyNhjsv3k8EShd0DZUK9GYlZJCtdJO9utiVRZzvchO
+25JCkgxkYOmGDiAzdBlapgGhCXWAuAyoLusKVDUdK4Rg0STQQlRFQCGKZVkmVZAu
+A0RkIuVI3I5WMCfu2FFP0HKEEbAsbJqMMt2iMlEAwUxTOeKcIpOaAGuGrovBypjr
+TwhxlLgsz46JmnhEfsn7B/4/60783oMBgFjFVDM4xhRALnCKySFnVIEA+0CXOVFS
+zQSaVBMnVVVlu1JdjiTKSdtkfrK+lT+QmqjFknkVtleZoL89xZ2YFzNjVaJZ6Xlx
+N+QPe6m4j97FaOQPT4TaUUtkKSaSzHHtWFQKAYE0PdsnBjpUZKzJqpEjsd1x22ER
+20foCBqyOP4elhSUyDSJpiGZcpUozESKpmKTUwNAVdUMyH2DnBMoKggZgMkiRUXk
+pBIEdRkbku+sJhqTQrqQSSoEpWtXRImXcJhUd6t7+5RAMD0wNW2S/8cC6dMz/v48
+z5kW6G2+OPD4c/fnN/Ut793Bptt73tUPxd8VPR95Mv/oh/wDO0KpV60tCwvaR3nm
+neLr3uPOvvDo24G0LYZ9Pny6hn8v3/TEaYoP1g9nZG/d9m3FQOnDB+uXNFw9nH/5
+dnbDtdF7fc/qzlSjifFCp1WTBpYcuPSgbS4e29x/avb9jKbIvit9GcPjjT/ac6+v
+Scnh7cFZvKOjpAY3vfnqBEeOTHtZnrvmy4y1y/uXTfTmzkt+WvSRV49kv355oS+c
+t7du6eyGVY/IscXg4KtEw/SnmXO+Hzp0Qno9JA9veLt/7MbKjeGuyheDzbO6y4vP
+ja/LPZzV2NJZhu4W9mStOlk2kZk+VNB29icxKkvW
+=AIEP
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/amaryllis
+
+==================================================================

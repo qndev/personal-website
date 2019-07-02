@@ -34,7 +34,7 @@ social_media:
   facebook: quangnd.hust
   # hackerrank: your_username
   # instagram: your_username
-  keybase: qnd
+  keybase: amaryllis
   linkedin: qndev
   # medium: your_username
   stackoverflow: 10928875
@@ -43,9 +43,9 @@ social_media:
   twitter: AmaryllisApril
   # unsplash: your_username
   # vk: your_username
-  website: https://qnd.keybase.pub
+  website: https://qndev.github.io/blog/
   # youtube: your_username
-  keybase_file: qnd
+  keybase_file: amaryllis
 
 topics:
   - name: Git
